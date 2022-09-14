@@ -1,2 +1,2 @@
 # Portfolio
-This repository is all about me and my works
+It is my portfolio which showcases my works and the knowledge which I've implemented using the known and learning tools
